@@ -21,6 +21,16 @@ CV
 ------
 You can find my up-to-date CV [here](https://github.com/jifanzhang999/jifan-zhang.github.io/tree/master/files/CV up to date.pdf) 
 
+Teaching 
+------
+
+•	TA for STAT 357(Introduction to Bayesian Statistics), STAT 330 (Applied Statistics for Research 1)         2022 
+
+•	TA for STAT 210(Introduction to Probability)	   2023
+
+•	TA for STAT 457(Applied Bayesian Inference)	   2023
+
+
 
 
 
