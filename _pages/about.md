@@ -30,6 +30,9 @@ Teaching
 
 •	TA for STAT 457(Applied Bayesian Inference)	   2023
 
+Other
+------
+In my spare time, I like playing badmintons, tennis and I have two cats!
 
 
 
