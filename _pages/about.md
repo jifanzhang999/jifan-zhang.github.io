@@ -19,7 +19,7 @@ I have a broad interest in random graph theory, including community detection, l
 
 CV
 ======
-You can find my up-to-date CV [here]() 
+You can find my up-to-date CV [here](https://github.com/jifanzhang999/jifan-zhang.github.io/tree/master/files/CV up to date.pdf) 
 
 
 
