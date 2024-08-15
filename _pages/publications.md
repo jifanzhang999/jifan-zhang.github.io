@@ -7,7 +7,7 @@ author_profile: true
 
 Working papers:
 
-Exact Community Recovery in Multiple Correlated Stochastic Block Models
+Harnessing Multiple Correlated Networks for Exact Community Recovery
 
 
 When 1-neighborhoods become distinct in random graphs
