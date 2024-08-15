@@ -9,12 +9,14 @@ redirect_from:
 ---
 
 Hi, I'm Jifan!
-I’m a third-year PhD student of Statistics and Data Science at Northwestern University. I’m advised by Prof. [Miklos Racz](https://racz.statistics.northwestern.edu/). I received my B.S. in Mathmatics from Tsinghua University in 2021. 
+I’m a third-year PhD student of Statistics and Data Science at Northwestern University. I’m advised by Prof. [Miklos Racz](https://racz.statistics.northwestern.edu/). I received my Bachelor's degree in Mathmatics from Tsinghua University in 2021, where I worked with Prof. [Qian Lin](https://sites.google.com/site/qianlincd/). 
 
 Research Interest
 ------
 
-I have a broad interest in random graph theory, including community detection, local neighbourhoods recovery, etc.  I study information-theoretic thresholds for community recovery and local neighbourhoods isomorphism problems and also design algorithms for graph matching and labelling.
+My research interests lie primarily in the domain of graph, encompassing both the theoretical aspects and the empirical application of graphical methodologies. My theoretical work predominantly focuses on classical graph models and their variations, including Erdős–Rényi random graphsand (regular) stochastic block models. I design algorithms for community recovery and analyze the intriguing properties of local neighborhoods. Particularly, I am devoted to study multiple networks and investigate the implications of incorporating additional information as the number of graphs increases, where understanding the phenomena of threshold improvements and phase transitions that emerge is of great concern. 
+
+Empirically, I studied to leverage Graph Neural Networks to learn Directed Acyclic Graph models within the context of biological data, specifically for analyzing genes and pathway interactions. I am also deeply interested in the calibration of graph models. To be more specific, I  I have focused on studying  uncertainty quantification for spatio-temporal graphs by employing calibration techniques and conformal prediction methodologies to enhance the reliability and interpretability of predictions.
 
 
 CV
