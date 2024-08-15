@@ -21,7 +21,7 @@ Empirically, I studied to leverage Graph Neural Networks to learn Directed Acycl
 
 CV
 ------
-You can find my up-to-date CV [here](https://github.com/jifanzhang999/jifan-zhang.github.io/tree/master/files/CV up to date.pdf) 
+You can find my up-to-date CV [here](https://raw.github.com/jifanzhang999/jifan-zhang.github.io/tree/master/files/CV up to date.pdf)
 
 Teaching 
 ------
