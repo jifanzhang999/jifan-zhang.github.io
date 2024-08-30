@@ -14,7 +14,7 @@ I’m a third-year PhD student of Statistics and Data Science at Northwestern Un
 Research Interest
 ------
 
-My research interests lie primarily in the domain of graph, encompassing both the theoretical aspects and the empirical application of graphical methodologies. My theoretical work predominantly focuses on classical graph models and their variations, including Erdős–Rényi random graphsand (regular) stochastic block models. I design algorithms for community recovery and analyze the intriguing properties of local neighborhoods. Particularly, I am devoted to study multiple networks and investigate the implications of incorporating additional information as the number of graphs increases, where understanding the phenomena of threshold improvements and phase transitions that emerge is of great concern. 
+My research interests lie primarily in network analysis and machine learning, encompassing both the theoretical analysis and the empirical application of graph models. My theoretical work predominantly focuses on various probabilistic generative graph models such as stochastic block model and related inference tasks including graph matching, community recovery and latent structure recovery.  Particularly, I am devoted to study multiple correlated networks and quantify the value of incorporating additional information as the number of graphs increases, where understanding the phenomena of threshold improvements and phase transitions that emerge is of great concern. 
 
 Empirically, I studied to leverage Graph Neural Networks to learn Directed Acyclic Graph models within the context of biological data, specifically for analyzing genes and pathway interactions. I am also deeply interested in the calibration of graph models. To be more specific, I  I have focused on studying  uncertainty quantification for spatio-temporal graphs by employing calibration techniques and conformal prediction methodologies to enhance the reliability and interpretability of predictions.
 
@@ -31,6 +31,8 @@ Teaching
 •	TA for STAT 210(Introduction to Probability)	   2023
 
 •	TA for STAT 457(Applied Bayesian Inference)	   2023
+
+•	TA for STAT 430-2(Probability Theory 2)	   2024
 
 Other
 ------
