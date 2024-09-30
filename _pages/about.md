@@ -14,9 +14,11 @@ I’m a third-year PhD student of Statistics and Data Science at Northwestern Un
 Research Interest
 ------
 
-My research interests lie primarily in network analysis and machine learning, encompassing both the theoretical analysis and the empirical application of graph models. My theoretical work predominantly focuses on various probabilistic generative graph models such as stochastic block model and related inference tasks including graph matching, community recovery and latent structure recovery.  Particularly, I am devoted to study multiple correlated networks and quantify the value of incorporating additional information as the number of graphs increases, where understanding the phenomena of threshold improvements and phase transitions that emerge is of great concern. 
+My research interests lie primarily in network analysis and machine learning, encompassing both the theoretical analysis and the empirical application of graph models. My theoretical work predominantly focuses on various probabilistic generative graph models such as stochastic block model and related inference tasks including graph matching, community recovery and latent structure recovery.  Particularly, I am devoted to study multiple correlated networks and quantify the value of how incorporating additional graph information can help with graph inference tsks including graph matching and community recovery. 
 
-Empirically, I studied to leverage Graph Neural Networks to learn Directed Acyclic Graph models within the context of biological data, specifically for analyzing genes and pathway interactions. I am also deeply interested in the calibration of graph models. To be more specific, I  I have focused on studying  uncertainty quantification for spatio-temporal graphs by employing calibration techniques and conformal prediction methodologies to enhance the reliability and interpretability of predictions.
+Empirically, I studied  the causal disentanglement framework by integrating graph structures
+ into the autoencoding variational
+Bayes model, to improve the prediction of unseen combinatorial perturbation effects in genomics. I am also deeply interested in the forecasting for time series with spatial dependencies which, sometimes can be referred as spatio-temporal graphs. I have focused on studying  uncertainty quantification for spatio-temporal graphs by employing adaptive conformal prediction methodologies to enhance the reliability and efficiency of predictions.
 
 
 CV
@@ -32,7 +34,7 @@ Teaching
 
 •	TA for STAT 457(Applied Bayesian Inference)	   2023
 
-•	TA for STAT 430-2(Probability Theory 2)	   2024
+•	TA for STAT 430-2(Probability Theory 2), STAT 420-1(Introduction to Statistical Theory and Methodology 1)	   2024
 
 Other
 ------
