@@ -9,7 +9,7 @@ redirect_from:
 ---
 
 Hi, I'm Jifan!
-I’m a third-year PhD student of Statistics and Data Science at Northwestern University. I’m advised by Prof. [Miklos Racz](https://racz.statistics.northwestern.edu/). I received my Bachelor's degree in Mathmatics from Tsinghua University in 2021, where I worked with Prof. [Qian Lin](https://sites.google.com/site/qianlincd/). 
+I’m a fourth-year PhD student of Statistics and Data Science at Northwestern University. I’m advised by Prof. [Miklos Racz](https://racz.statistics.northwestern.edu/). I received my Bachelor's degree in Mathmatics from Tsinghua University in 2021, where I worked with Prof. [Qian Lin](https://sites.google.com/site/qianlincd/). 
 
 Research Interest
 ------
