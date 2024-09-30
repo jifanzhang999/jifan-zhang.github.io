@@ -23,7 +23,7 @@ Bayes model, to improve the prediction of unseen combinatorial perturbation effe
 
 CV
 ------
-You can find my up-to-date CV [here](https://raw.github.com/jifanzhang999/jifan-zhang.github.io/tree/master/files/CV up to date.pdf)
+You can find my up-to-date CV [here](https://raw.github.com/jifanzhang999/jifan-zhang.github.io/tree/master/files/CV_up_to_date.pdf)
 
 Teaching 
 ------
