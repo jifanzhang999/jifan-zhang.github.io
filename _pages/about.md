@@ -9,36 +9,29 @@ redirect_from:
 ---
 
 Hi, I'm Jifan!
-I’m a fourth-year PhD student of Statistics and Data Science at Northwestern University. I’m advised by Prof. [Miklos Racz](https://racz.statistics.northwestern.edu/). I received my Bachelor's degree in Mathmatics from Tsinghua University in 2021, where I worked with Prof. [Qian Lin](https://sites.google.com/site/qianlincd/). 
+I’m a fourth-year PhD student of Statistics and Data Science at Northwestern University. I’m advised by Prof. [Miklos Racz](https://racz.statistics.northwestern.edu/). I received my Bachelor's degree in Pure and applied mathmatics from Tsinghua University in 2021, where I worked with Prof. [Qian Lin](https://sites.google.com/site/qianlincd/). 
 
 Research Interest
 ------
 
-My research interests lie primarily in network analysis and machine learning, encompassing both the theoretical analysis and the empirical application of graph models. My theoretical work predominantly focuses on various probabilistic generative graph models such as stochastic block model and related inference tasks including graph matching, community recovery and latent structure recovery.  Particularly, I am devoted to study multiple correlated networks and quantify the value of how incorporating additional graph information can help with graph inference tsks including graph matching and community recovery. 
 
-Empirically, I studied  the causal disentanglement framework by integrating graph structures
- into the autoencoding variational
-Bayes model, to improve the prediction of unseen combinatorial perturbation effects in genomics. I am also deeply interested in the forecasting for time series with spatial dependencies which, sometimes can be referred as spatio-temporal graphs. I have focused on studying  uncertainty quantification for spatio-temporal graphs by employing adaptive conformal prediction methodologies to enhance the reliability and efficiency of predictions.
+I am broadly interested in statistics, probabilistic combinatorics, and computer science, with a  focus on graph theory and machine learning models for data with graph structure. My theoretical research centers on probabilistic generative graph models, such as the stochastic block model, and studies inference tasks like graph matching, community recovery, and latent structure recovery. Specifically, I explore how multiple (correlated) networks can be leveraged to enhance inference tasks, evaluating how integrating information across graphs can improve outcomes in graph matching and community recovery.
+
+On the empirical side, my work revolves around Graph Neural Networks (GNNs), advanced machine learning models designed for graph-structured data. I am currently investigating how GNNs can be employed for causal representation learning, which is typically depicted by Directed Acyclic Graphs (DAGs). The improvement of the proposed model has been demonstrated by the better prediction of unseen combinatorial perturbation effects in genomics data. Additionally, I have a strong interest in uncertainty quantification fot GNNs, particularly in scenarios where the cost of errors is significant. My research studies multi-step-ahead predictions for time series with spatial dependencies, often modeled as spatio-temporal graphs. I utilize adaptive conformal inference and inefficiency minimization techniques to ensure reliable uncertainty estimates and improve the efficiency of the prediction.
 
 
 CV
 ------
 You can find my up-to-date CV [here](https://raw.github.com/jifanzhang999/jifan-zhang.github.io/tree/master/files/CV_up_to_date.pdf)
 
-Teaching 
+News
 ------
 
-•	TA for STAT 357(Introduction to Bayesian Statistics), STAT 330 (Applied Statistics for Research 1)         2022 
-
-•	TA for STAT 210(Introduction to Probability)	   2023
-
-•	TA for STAT 457(Applied Bayesian Inference)	   2023
-
-•	TA for STAT 430-2(Probability Theory 2), STAT 420-1(Introduction to Statistical Theory and Methodology 1)	   2024
+I'm actively seeking an internship opportunity for summer 2025 for Tech/Quant positions! Feel free to contact me if you have any connections, advice or opportunities you can offer. Thanks!
 
 Other
 ------
-In my spare time, I like playing badmintons, tennis and I have two cats!
+In my spare time, I like playing badmintons, table tennis and I have two cats, Melon and Sherry. 
 
 
 
