@@ -4,6 +4,8 @@ title: "Publications"
 permalink: /publications/
 author_profile: true
 ---
+
+
 Publications:
 
 + Harnessing Multiple Correlated Networks for Exact Community Recovery
@@ -15,6 +17,7 @@ Publications:
 
 
 Working papers:
+
 
 + When 1-neighborhoods become distinct in random graphs
 
