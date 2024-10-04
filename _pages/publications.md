@@ -11,7 +11,9 @@ Publications:
   Miklos Racz\*,Jifan Zhang\*,
   
   Advances in the 38th Conference on Neural Information Processing Systems(NeurIPS 2024)
----
+
+
+
 Working papers:
 
 + When 1-neighborhoods become distinct in random graphs
