@@ -7,4 +7,4 @@ redirect_from:
   - /resume
 ---
 
-You can find my up-to-date CV here!
+You can find my up-to-date CV [here](https://racz.statistics.northwestern.edu/)!
