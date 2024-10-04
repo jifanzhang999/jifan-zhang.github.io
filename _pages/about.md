@@ -24,7 +24,7 @@ On the empirical side, my work revolves around Graph Neural Networks (GNNs), adv
 News
 ------
 
-I'm actively seeking an internship opportunity for summer 2025 for Tech/Quant positions! Feel free to contact me if you have any connections, advice or opportunities you can offer. Thanks!
+I'm actively seeking an internship for summer 2025 for Tech/Quant positions! Feel free to contact me if you have any connections, advice or opportunities you can offer. Thanks!
 
 Other
 ------
