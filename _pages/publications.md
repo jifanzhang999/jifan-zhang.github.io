@@ -22,17 +22,17 @@ Working papers:
 + From weak recovery to exact recovery: matching O(log n) correlated regular stochastic block models
 
   
-Shuwen Chai\*, Miklos Racz\*, Jifan Zhang\*
+  Shuwen Chai\*, Miklos Racz\*, Jifan Zhang\*
 
 + Improved causal structure learning on genomics
 
   
- Jifan Zhang\*, Michelle M. Li, Elena Zheleva
+   Jifan Zhang\*, Michelle M. Li, Elena Zheleva
  
 + Adaptive conformalized forecasting for multiple time series with spatial dependencies
 
   
-Jifan Zhang\*, Fangxin Wang, Kaize Ding
+  Jifan Zhang\*, Fangxin Wang, Kaize Ding
 
 
 
