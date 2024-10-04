@@ -7,4 +7,4 @@ redirect_from:
   - /resume
 ---
 
-You can find my up-to-date CV [here](https://racz.statistics.northwestern.edu/)!
+You can find my up-to-date CV [here](https://github.com/jifanzhang999/jifan-zhang.github.io/blob/master/JifanZhangcv.pdf)!
