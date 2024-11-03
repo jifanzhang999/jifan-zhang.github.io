@@ -15,9 +15,11 @@ Research Interest
 ------
 
 
-I am broadly interested in statistics, probabilistic combinatorics, and computer science, with a  focus on graph theory and machine learning models for data with graph structure. My theoretical research centers on probabilistic generative graph models, such as the stochastic block model, and studies inference tasks like graph matching, community recovery, and latent structure recovery. Specifically, I explore how multiple (correlated) networks can be leveraged to enhance inference tasks, evaluating how integrating information across graphs can improve outcomes in graph matching and community recovery.
+I am broadly interested in statistics, probabilistic combinatorics, and computer science, with a  focus on graph theory and data mining. 
 
-On the empirical side, my work revolves around Graph Neural Networks (GNNs), advanced machine learning models designed for graph-structured data. I am currently investigating how GNNs can be employed for causal representation learning, which is typically depicted by Directed Acyclic Graphs (DAGs). The model achieves superior predictive performance for unseen combinatorial perturbation effects in genomic data. Additionally, I have a strong interest in uncertainty quantification for GNNs, particularly in scenarios where the cost of errors is significant. My research studies multi-step-ahead predictions for time series with spatial dependencies, often modeled as spatio-temporal graphs. I utilize adaptive conformal inference and inefficiency minimization techniques to ensure reliable uncertainty estimates and improve the efficiency of the prediction.
+My theoretical research centers on probabilistic generative graph models, such as the stochastic block model, and studies inference tasks like graph matching, community recovery, and latent structure recovery. Specifically, I explore how multiple (correlated) networks can be leveraged to enhance inference tasks, evaluating how integrating information across graphs can improve outcomes in graph matching and community recovery.
+
+On the empirical side, I focus on Graph Neural Networks and advanced machine learning models designed for graph-structured data. I studied uncertainty quantification for spatio-temporal graphs, with guaranteed coverage for high-dimensional predictions. Additionally, I am investigating how GNNs can be employed for better causal representation learning.
 
 
 
