@@ -23,11 +23,6 @@ On the empirical side, I focus on Graph Neural Networks and advanced machine lea
 
 
 
-News
-------
-
-I'm actively seeking an internship for summer 2025 for Tech/Quant positions! Feel free to contact me if you have any connections, advice or opportunities you can offer. Thanks!
-
 Other
 ------
 In my spare time, I like playing badmintons, table tennis and I have two cats, Melon and Sherry. 
