@@ -12,9 +12,13 @@ Publications:
   
   Miklos Racz\*,Jifan Zhang\*,
   
-  Advances in the 38th Conference on Neural Information Processing Systems(NeurIPS 2024) 
+  Advances in the 38th Conference on Neural Information Processing Systems (NeurIPS 2024) 
 
++ Topology-Aware Conformal Prediction for Stream Networks
 
+  Jifan Zhang\*, Fangxin Wang\*, Kaize Ding, Shixiang Zhu
+
+  Submitted to the 42th International Conference on Machine Learning (ICML 2025)
 
 Working papers:
 
@@ -34,10 +38,7 @@ Working papers:
   
    Jifan Zhang\*, Michelle M. Li, Elena Zheleva
  
-+ Adaptive conformalized forecasting for multiple time series with spatial dependencies
 
-  
-  Jifan Zhang\*, Fangxin Wang, Kaize Ding
 
 
 
