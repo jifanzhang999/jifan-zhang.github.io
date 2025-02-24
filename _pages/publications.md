@@ -16,7 +16,7 @@ Publications:
 
 + Topology-Aware Conformal Prediction for Stream Networks
 
-  Jifan Zhang\*, Fangxin Wang\*, Kaize Ding, Shixiang Zhu
+  Jifan Zhang\*, Fangxin Wang\*, Kaize Ding, Philip S. Yu, Shixiang Zhu
 
   Submitted to the 42th International Conference on Machine Learning (ICML 2025)
 
