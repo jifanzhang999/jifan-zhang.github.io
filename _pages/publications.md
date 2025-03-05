@@ -8,7 +8,7 @@ author_profile: true
 
 Publications:
 
-+ Harnessing Multiple Correlated Networks for Exact Community Recovery         [Arxiv](https://arxiv.org/pdf/2412.02796) [Neurips](https://proceedings.neurips.cc/paper_files/paper/2024/file/60dc7fa827f5f761ad481e2ad40b5573-Paper-Conference.pdf)
++ Harnessing Multiple Correlated Networks for Exact Community Recovery         [[Arxiv](https://arxiv.org/pdf/2412.02796)] [[Neurips](https://proceedings.neurips.cc/paper_files/paper/2024/file/60dc7fa827f5f761ad481e2ad40b5573-Paper-Conference.pdf)]
   
   Miklos Racz\*,Jifan Zhang\*,
   
@@ -18,7 +18,6 @@ Publications:
 
   Jifan Zhang\*, Fangxin Wang\*, Kaize Ding, Philip S. Yu, Shixiang Zhu
 
-  Submitted to the 42th International Conference on Machine Learning (ICML 2025)
 
 Working papers:
 
