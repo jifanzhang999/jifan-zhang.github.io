@@ -17,7 +17,7 @@ Research Interest
 
 I work at the intersection of statistics, combinatorics, and computer science, with a core focus on graph-structured data, both from a theoretical and applied perspective.
 
-On the theoretical front, I develop and analyze probabilistic models for complex networks, such as the stochastic block model. My research tackles fundamental challenges like graph matching, community detection, and latent structure recovery. A key direction involves leveraging multiple correlated graphs to boost the reliability and accuracy of inference tasks—a direction with growing relevance in multi-modal data integration and networked systems.
+On the theoretical front, I develop and analyze probabilistic models for complex networks, such as the stochastic block model. My research tackles fundamental challenges like graph matching, community detection, and latent structure recovery. A key direction involves leveraging multiple correlated graphs to boost the reliability and accuracy of inference tasks, with growing relevance in multi-modal data integration and networked systems.
 
 On the applied side, I designed machine learning solutions for real-world graph problems. I’ve developed uncertainty quantification methods for spatio-temporal graphs that offer rigorous coverage guarantees in high-dimensional spaces. I also explored how graph neural networks can be applied for causal representation learning from networked data. 
 
