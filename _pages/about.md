@@ -24,6 +24,13 @@ On the applied side, I designed machine learning solutions for real-world graph 
 I’m passionate about graph-structured data as a powerful abstraction that underpins a wide range of domains. I’m excited by its potential to unify theory and practice and to drive intelligent, scalable solutions across diverse applications.
 
 
+News
+------
+
+I am currently looking for full-time position starting in 2026 fall, in the tech and quant domains. I am actively exploring soles such as Research Scientist, Data Scientist Quantitative Researcher or similar positions where I can contribute the impactful AI research and development.
+
+
+
 Other
 ------
 In my spare time, I like playing badmintons, table tennis and I have two cats, Melon and Sherry. 
