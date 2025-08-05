@@ -10,7 +10,7 @@ Publications:
 
 + Harnessing Multiple Correlated Networks for Exact Community Recovery         [[Arxiv](https://arxiv.org/pdf/2412.02796)] [[Neurips](https://proceedings.neurips.cc/paper_files/paper/2024/file/60dc7fa827f5f761ad481e2ad40b5573-Paper-Conference.pdf)]
   
-  Miklos Racz\*,Jifan Zhang\*,
+  Jifan Zhang\*, Miklos Racz\*
   
   Advances in the 38th Conference on Neural Information Processing Systems (NeurIPS 2024) 
 
@@ -30,7 +30,7 @@ Working papers:
 + When 1-neighborhoods become distinct in random graphs
 
   
-  Miklos Racz\*,Jifan Zhang\*
+  Jifan Zhang\*, Miklos Racz\*
 
 + From weak recovery to exact recovery: matching O(log n) correlated regular stochastic block models 
 
