@@ -14,11 +14,16 @@ Publications:
   
   Advances in the 38th Conference on Neural Information Processing Systems (NeurIPS 2024) 
 
-+ Topology-Aware Conformal Prediction for Stream Networks
++ Topology-Aware Conformal Prediction for Stream Networks       [[Arxiv](https://arxiv.org/abs/2503.04981)]
 
   Jifan Zhang\*, Fangxin Wang\*, Kaize Ding, Philip S. Yu, Shixiang Zhu
+  
+  Invited talk at the Institute for Operations Research and the Management Sciences (Informs 2025)
 
++ Causal representation learning from network data
 
+  Jifan Zhang\*, Michelle M. Li\*, Elene Zheleva
+  
 Working papers:
 
 
@@ -32,11 +37,6 @@ Working papers:
   
   Shuwen Chai\*, Miklos Racz\*, Jifan Zhang\*
 
-+ Improved causal structure learning on genomics
-
-  
-   Jifan Zhang\*, Michelle M. Li, Elena Zheleva
- 
 
 
 
