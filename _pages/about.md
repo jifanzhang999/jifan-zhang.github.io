@@ -27,7 +27,7 @@ I’m passionate about graph-structured data as a powerful abstraction that unde
 News
 ------
 
-I am currently looking for full-time position starting in 2026 fall, in the tech and quant domains. I am actively exploring soles such as Research Scientist, Data Scientist Quantitative Researcher or similar positions where I can contribute the impactful AI research and development.
+I am currently looking for full-time position starting in 2026 fall, in the tech and quant domains. I am actively exploring soles such as Research Scientist, Data Scientist, Quantitative Researcher or similar positions where I can contribute the impactful AI research and development.
 
 
 
