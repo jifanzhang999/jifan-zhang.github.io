@@ -7,4 +7,4 @@ redirect_from:
   - /resume
 ---
 
-You can find my up-to-date CV [here](https://github.com/jifanzhang999/jifan-zhang.github.io/raw/master/JifanZhangResume-6.pdf)!
+You can find my up-to-date CV [here](https://jifanzhang999.github.io/jifan-zhang.github.io/JifanZhangResume-6.pdf)!
