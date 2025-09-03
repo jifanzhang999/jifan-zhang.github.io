@@ -12,7 +12,9 @@ Publications:
   
   Jifan Zhang\*, Miklos Racz\*
   
-  Advances in the 38th Conference on Neural Information Processing Systems (NeurIPS 2024) 
+  Advances in the 38th Conference on Neural Information Processing Systems (NeurIPS 2024)
+
+Preprints:
 
 + Topology-Aware Conformal Prediction for Stream Networks       [[Arxiv](https://arxiv.org/abs/2503.04981)]
 
@@ -20,12 +22,15 @@ Publications:
   
   Invited talk at the Institute for Operations Research and the Management Sciences (Informs 2025)
 
-+ Causal representation learning from network data
++ Causal representation learning from network data   [[Arxiv](https://arxiv.org/abs/2509.01916)]
 
   Jifan Zhang\*, Michelle M. Li\*, Elene Zheleva
   
 Working papers:
 
++ Bridging Pretraining and Supervision in Knowledge Graph Learning with Provable Guarantees
+  
+  Jifan Zhang\*, Suqi Liu\*, Miklos Z. Racz\*
 
 + When 1-neighborhoods become distinct in random graphs
 
@@ -35,7 +40,9 @@ Working papers:
 + From weak recovery to exact recovery: matching O(log n) correlated regular stochastic block models 
 
   
-  Shuwen Chai\*, Miklos Racz\*, Jifan Zhang\*
+   Jifan Zhang\*, Shuwen Chai\*, Miklos Racz\*
+
+
 
 
 
