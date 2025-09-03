@@ -15,11 +15,11 @@ Research Interest
 ------
 
 
-I work at the intersection of statistics, combinatorics, and computer science, with a core focus on graph-structured data, both from a theoretical and applied perspective.
+I work at the intersection of statistics, probabilities and machine learning, with a core focus on graph-structured data, both from a theoretical and applied perspective.
 
-On the theoretical front, I develop and analyze probabilistic models for complex networks, such as the stochastic block model. My research tackles fundamental challenges like graph matching, community detection, and latent structure recovery. A key direction involves leveraging multiple correlated graphs to boost the reliability and accuracy of inference tasks, with growing relevance in multi-modal data integration and networked systems.
+On the theoretical side, I build and analyze probabilistic models of complex networks that provide rigorous guarantees for tasks such as graph matching, community detection, and latent structure recovery. I am particularly interested in leveraging multiple correlated graphs to improve the reliability and robustness of inference, an idea that naturally extends to recommender systems and networked data platforms.
 
-On the applied side, I designed machine learning solutions for real-world graph problems. I’ve developed uncertainty quantification methods for spatio-temporal graphs that offer rigorous coverage guarantees in high-dimensional spaces. I also explored how graph neural networks can be applied for causal representation learning from networked data. 
+On the applied side, I design machine learning algorithms for real-world graph problems. My recent work focuses on knowledge graph learning, where I investigate how pretraining can be combined with supervised learning to produce robust, high-quality embeddings for reasoning and prediction, together with provable error guarantees. I have also developed uncertainty quantification methods for spatio-temporal graphs, providing rigorous coverage guarantees in high-dimensional settings, and explored how graph neural networks can be adapted for causal representation learning from networked data.
 
 I’m passionate about graph-structured data as a powerful abstraction that underpins a wide range of domains. I’m excited by its potential to unify theory and practice and to drive intelligent, scalable solutions across diverse applications.
 
