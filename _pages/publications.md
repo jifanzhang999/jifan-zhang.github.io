@@ -14,13 +14,14 @@ Publications:
   
   Advances in the 38th Conference on Neural Information Processing Systems (NeurIPS 2024)
 
-Preprints:
 
 + Topology-Aware Conformal Prediction for Stream Networks       [[Arxiv](https://arxiv.org/abs/2503.04981)]
 
-  Jifan Zhang\*, Fangxin Wang\*, Kaize Ding, Philip S. Yu, Shixiang Zhu
+  Jifan Zhang\*, Fangxin Wang\*, Zihe Song, Kaize Ding, Philip S. Yu, Shixiang Zhu
   
-  Invited talk at the Institute for Operations Research and the Management Sciences (Informs 2025)
+  Advances in the 39th Conference on Neural Information Processing Systems (NeurIPS 2025)
+
+Preprints:
 
 + Causal representation learning from network data   [[Arxiv](https://arxiv.org/abs/2509.01916)]
 
