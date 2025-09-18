@@ -27,10 +27,15 @@ I’m passionate about graph-structured data as a powerful abstraction that unde
 News
 ------
 
-I am currently looking for full-time position starting in 2026 fall, in the tech and quant domains. I am actively exploring soles such as Research Scientist, Data Scientist, Quantitative Researcher or similar positions where I can contribute the impactful AI research and development.
+- I am currently looking for a full-time position starting in **Jun 2026**, in the **tech and quant domains**.  
+  I am actively exploring roles such as **Research Scientist**, **Data Scientist**, **Quantitative Researcher**, or similar positions where I can contribute to impactful AI research and development.
 
+- ✅ **NeurIPS 2025 Accepted!**  
+  My first co-authored paper, *Topology-Aware Conformal Prediction on Stream Networks*, has been accepted to **NeurIPS 2025**.
 
-
+- 🗣️ **INFORMS 2025 Invited Talk**  
+  I will be giving an invited talk on the same paper at **INFORMS 2025**, in the session *"Advances in Machine Learning and Deep Learning for Multivariate Time Series Forecasting"*.
+  
 Other
 ------
 In my spare time, I like playing badmintons, table tennis and I have two cats, Melon and Sherry. 
