@@ -30,10 +30,6 @@ News
 - **Full Time Industrial Position Seeking**  
   I am looking for a full-time position starting in **Jun 2026**, in the **quant and tech domains**. I am actively exploring roles including **Quantitative Researcher**, **Research  Scientist** and **Applied Scientist** where I can contribute to impactful AI research and development.
 
-
-- **NeurIPS 2025 Accepted**  
-  My first co-authored paper, *Topology-Aware Conformal Prediction on Stream Networks*, has been accepted to NeurIPS 2025.
-
   
 Other
 ------
