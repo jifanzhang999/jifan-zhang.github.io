@@ -23,14 +23,6 @@ On the applied side, I design machine learning algorithms for real-world graph p
 
 
 
-News
-------
-
-
-- **Full Time Industrial Position Seeking**  
-  I am looking for a full-time position starting in **Jun 2026**, in the **quant and tech domains**. I am actively exploring roles including **Quantitative Researcher**, **Research  Scientist** and **Applied Scientist** where I can contribute to impactful AI research and development.
-
-  
 Other
 ------
 In my spare time, I like playing badmintons, table tennis and I have two cats, Melon and Sherry. 
