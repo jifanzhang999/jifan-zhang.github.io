@@ -15,7 +15,7 @@ Publications:
   Advances in the 38th Conference on Neural Information Processing Systems (NeurIPS 2024)
 
 
-+ Topology-Aware Conformal Prediction for Stream Networks       [[Arxiv](https://arxiv.org/abs/2503.04981)]
++ Topology-Aware Conformal Prediction for Stream Networks       [[Arxiv](https://arxiv.org/abs/2503.04981)][[Neurips](https://neurips.cc/virtual/2025/loc/san-diego/poster/118542)]
 
   Jifan Zhang\*, Fangxin Wang\*, Zihe Song, Kaize Ding, Philip S. Yu, Shixiang Zhu
   
