@@ -15,11 +15,11 @@ Research Interest
 ------
 
 
-I work at the intersection of statistics, probabilities and machine learning, with a core focus on graph-structured data, both from a theoretical and applied perspective. Graph is a powerful abstraction that underpins a wide range of domains. I’m excited by its potential to unify theory and practice and to drive intelligent solutions across diverse applications.
+I work at the intersection of statistics, probabilities and machine learning, with a core focus on graph-structured data, both from a theoretical and applied perspective. 
 
 On the theoretical side, I build and analyze probabilistic models of complex networks that provide rigorous guarantees for tasks such as graph matching, community detection, and latent structure recovery. I am particularly interested in leveraging multiple correlated graphs to improve the reliability and robustness of inference, an idea that naturally extends to recommender systems and networked data platforms.
 
-On the applied side, I design machine learning algorithms for real-world graph problems. My recent work focuses on knowledge graph learning, where I investigate how pretraining can be combined with supervised learning, theoretically and empirically, to produce robust, high-quality embeddings for reasoning and prediction. I have also developed uncertainty quantification methods for spatio-temporal graphs, providing rigorous coverage guarantees in high-dimensional settings, and explored how graph neural networks can be adapted for causal representation learning from networked data.
+On the applied side, I design machine learning algorithms for real-world graph problems. My recent work focuses on knowledge graph learning, where I investigate how pretraining can be combined with supervised learning, theoretically and empirically, to produce informative embeddings for relation learning. I have also developed uncertainty quantification methods for spatio-temporal graphs, providing rigorous coverage guarantees in high-dimensional settings, and explored how graph neural networks can be adapted for causal representation learning for genomics.
 
 
 
