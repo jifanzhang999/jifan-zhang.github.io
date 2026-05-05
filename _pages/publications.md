@@ -10,7 +10,7 @@ Publications:
 
 + Harnessing Multiple Correlated Networks for Exact Community Recovery         [[Arxiv](https://arxiv.org/pdf/2412.02796)] [[Neurips](https://proceedings.neurips.cc/paper_files/paper/2024/file/60dc7fa827f5f761ad481e2ad40b5573-Paper-Conference.pdf)]
   
-  Jifan Zhang\*, Miklos Racz\*
+   Miklos Racz\*, Jifan Zhang\* (Alphabetical)
   
   Advances in the 38th Conference on Neural Information Processing Systems (NeurIPS 2024)
 
@@ -29,19 +29,19 @@ Preprints:
   
 Working papers:
 
-+ Bridging Pretraining and Supervision in Knowledge Graph Learning with Provable Guarantees
++ Toward a Unified Statistical Theory of Unsupervised
+Pretraining and Supervised Neural Knowledge Graph
+Learning
   
-  Jifan Zhang\*, Suqi Liu\*, Miklos Z. Racz\*
+  Jifan Zhang, Miklos Z. Racz, Suqi Liu
 
 + When 1-neighborhoods become distinct in random graphs
 
-  
   Jifan Zhang\*, Miklos Racz\*
 
 + From weak recovery to exact recovery: matching O(log n) correlated regular stochastic block models 
-
   
-   Jifan Zhang\*, Shuwen Chai\*, Miklos Racz\*
+  Shuwen Chai\*, Miklos Racz\*,Jifan Zhang\* (Alphabetical)
 
 
 
