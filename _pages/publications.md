@@ -25,7 +25,7 @@ Publications:
 
 + Causal representation learning from network data   [[Arxiv](https://arxiv.org/abs/2509.01916)]
 
-  Jifan Zhang, Michelle M. Li, Elene Zheleva
+  Jifan Zhang, Michelle M. Li, Elena Zheleva
 
   The 32nd ACM SIGKDD Conference on Knowledge Discovery and Data Mining (KDD 2026) 
   
