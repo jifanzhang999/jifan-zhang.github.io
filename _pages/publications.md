@@ -23,7 +23,7 @@ Publications:
 
 
 
-+ Causal representation learning from network data   [[Arxiv](https://arxiv.org/abs/2509.01916)]
++ Causal Representation Learning From Network Data   [[Arxiv](https://arxiv.org/abs/2509.01916)]
 
   Jifan Zhang, Michelle M. Li, Elena Zheleva
 
