@@ -29,13 +29,12 @@ Publications:
 
   The 32nd ACM SIGKDD Conference on Knowledge Discovery and Data Mining (KDD 2026) 
   
-Working papers:
 
-+ Toward a Unified Statistical Theory of Unsupervised
-Pretraining and Supervised Neural Knowledge Graph
-Learning
++ Toward a Unified Statistical Theory of Unsupervised Pretraining and Supervised Neural Knowledge Graph Learning [[Arxiv](https://arxiv.org/abs/2607.26346)]
   
   Jifan Zhang, Miklos Z. Racz, Suqi Liu
+
+Working papers:
 
 + When 1-neighborhoods become distinct in random graphs
 
