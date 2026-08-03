@@ -14,12 +14,13 @@ I’m a fifth-year PhD student of Statistics and Data Science at Northwestern Un
 Research Interest
 ------
 
+I work at the intersection of statistics, probability, and machine learning, with a focus on learning and inference from graph-structured and relational data. 
 
-I work at the intersection of statistics, probabilities and machine learning, with a core focus on graph-structured data, both from a theoretical and applied perspective. 
+On the theoretical side, my work addresses structural questions about random graphs, including when local neighborhoods uniquely identify vertices, as well as statistical inference problems such as community recovery and graph matching from multiple correlated networks.
 
-On the theoretical side, I build and analyze probabilistic models of complex networks that provide rigorous guarantees for tasks such as graph matching, community detection, and latent structure recovery. I am particularly interested in leveraging multiple correlated graphs to improve the reliability and robustness of inference, an idea that naturally extends to recommender systems and networked data platforms.
+On the machine learning side, I design methods for learning representations and making predictions from relational data. My recent work studies multi-view pretraining for knowledge graphs, combining unlabeled entity information with supervised relation learning and analyzing how pretrained representation error affects downstream prediction. I have also worked on uncertainty quantification for high-dimensional spatio-temporal graph data, developing prediction regions with rigorous coverage guarantees, and on adapting graph neural networks for causal representation learning in genomics.
 
-On the applied side, I design machine learning algorithms for real-world graph problems. My recent work focuses on knowledge graph learning, where I investigate how pretraining can be combined with supervised learning, theoretically and empirically, to produce informative embeddings for relation learning. I have also developed uncertainty quantification methods for spatio-temporal graphs, providing rigorous coverage guarantees in high-dimensional settings, and explored how graph neural networks can be adapted for causal representation learning for genomics.
+Across these projects, I am broadly interested in connecting rigorous statistical theory with practical learning problems.
 
 
 
