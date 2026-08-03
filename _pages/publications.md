@@ -8,41 +8,42 @@ author_profile: true
 
 Publications:
 
-+ Harnessing Multiple Correlated Networks for Exact Community Recovery         [[Arxiv](https://arxiv.org/pdf/2412.02796)] [[Neurips](https://proceedings.neurips.cc/paper_files/paper/2024/file/60dc7fa827f5f761ad481e2ad40b5573-Paper-Conference.pdf)]
++ **Harnessing Multiple Correlated Networks for Exact Community Recovery**         [[Arxiv](https://arxiv.org/pdf/2412.02796)] [[Neurips](https://proceedings.neurips.cc/paper_files/paper/2024/file/60dc7fa827f5f761ad481e2ad40b5573-Paper-Conference.pdf)]
   
-   Miklos Racz, Jifan Zhang (Alphabetical)
+   Miklos Racz, **Jifan Zhang** (Alphabetical)
   
   Advances in the 38th Conference on Neural Information Processing Systems (NeurIPS 2024)
 
 
-+ Topology-Aware Conformal Prediction for Stream Networks       [[Arxiv](https://arxiv.org/abs/2503.04981)][[Neurips](https://proceedings.neurips.cc/paper_files/paper/2025/file/806288e682d8a38c0bf21e37ab38af0a-Paper-Conference.pdf)]
++ **Topology-Aware Conformal Prediction for Stream Networks**       [[Arxiv](https://arxiv.org/abs/2503.04981)][[Neurips](https://proceedings.neurips.cc/paper_files/paper/2025/file/806288e682d8a38c0bf21e37ab38af0a-Paper-Conference.pdf)]
 
-  Jifan Zhang, Fangxin Wang, Zihe Song, Kaize Ding, Philip S. Yu, Shixiang Zhu
+  **Jifan Zhang**, Fangxin Wang, Zihe Song, Kaize Ding, Philip S. Yu, Shixiang Zhu
   
   Advances in the 39th Conference on Neural Information Processing Systems (NeurIPS 2025)
 
 
 
-+ Causal Representation Learning from Network Data 
++ **Causal Representation Learning from Network Data**  [[Arxiv](https://arxiv.org/abs/2509.01916)]
 
-  Jifan Zhang, Michelle M. Li, Elena Zheleva
+  **Jifan Zhang**, Michelle M. Li, Elena Zheleva
 
   The 32nd ACM SIGKDD Conference on Knowledge Discovery and Data Mining (KDD 2026) 
   
+Preprints:
 
-+ Toward a Unified Statistical Theory of Unsupervised Pretraining and Supervised Neural Knowledge Graph Learning [[Arxiv](https://arxiv.org/abs/2607.26346)]
++ **Toward a Unified Statistical Theory of Unsupervised Pretraining and Supervised Neural Knowledge Graph Learning** [[Arxiv](https://arxiv.org/abs/2607.26346)]
   
-  Jifan Zhang, Miklos Z. Racz, Suqi Liu
+  **Jifan Zhang**, Miklos Racz, Suqi Liu
 
 Working papers:
 
-+ When 1-neighborhoods become distinct in random graphs
++ **When 1-neighborhoods Become Distinct in Random Graphs**
 
-  Miklos Racz, Jifan Zhang (Alphabetical)
+  Miklos Racz, **Jifan Zhang** (Alphabetical)
 
-+ From weak recovery to exact recovery: matching O(log n) correlated regular stochastic block models 
++ **From Weak Recovery to Exact Recovery: Matching O(log n) Correlated Regular Stochastic Block Models**
   
-  Shuwen Chai, Miklos Racz,Jifan Zhang (Alphabetical)
+  Shuwen Chai, Miklos Racz,**Jifan Zhang** (Alphabetical)
 
 
 
