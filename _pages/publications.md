@@ -36,6 +36,12 @@ Publications:
 
     Advances in the 40th Conference on Neural Information Processing Systems (NeurIPS 2026)
 
+PhD Thesis:
+
++ **Learning and Inference from Networks** [[Proquest](https://www.proquest.com/openview/d6f977a3904e03e28781f9073172e168/1.pdf?pq-origsite=gscholar&cbl=18750&diss=y)]
+
+
+
 Working papers:
 
 + **When 1-neighborhoods Become Distinct in Random Graphs**
